@@ -70,3 +70,4 @@ Para algunos tipos de nave se establecen condiciones _adicionales_, o sea, que s
 - Naves hospital: los quirófanos no deben estar preparados.
 # https-github.com-wollok-naves-espaciales
 # naves-espaciales
+# naves-espaciales
