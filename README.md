@@ -68,3 +68,5 @@ Para algunos tipos de nave se establecen condiciones _adicionales_, o sea, que s
 - Naves de combate: los misiles no deben estar desplegados.
 - Naves de combate sigilosas: además de lo anterior, deben estar visibles.
 - Naves hospital: los quirófanos no deben estar preparados.
+# https-github.com-wollok-naves-espaciales
+# naves-espaciales
